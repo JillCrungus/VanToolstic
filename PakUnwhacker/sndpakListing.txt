@@ -1,0 +1,1867 @@
+Snd.pak file listing
+File 0
+File name: Airhorn.wav
+File size: 51960 bytes
+File 1
+File name: AnnouncerARBCellar.saf
+File size: 98436 bytes
+File 2
+File name: AnnouncerARBDodgeDead.saf
+File size: 52824 bytes
+File 3
+File name: AnnouncerARBFalling.saf
+File size: 43392 bytes
+File 4
+File name: AnnouncerARBGodBeam.saf
+File size: 121188 bytes
+File 5
+File name: AnnouncerARBHasTrophy.saf
+File size: 56100 bytes
+File 6
+File name: AnnouncerARBKickme.saf
+File size: 84432 bytes
+File 7
+File name: AnnouncerARBLeadChange.saf
+File size: 41916 bytes
+File 8
+File name: AnnouncerARBNearWin.saf
+File size: 73956 bytes
+File 9
+File name: AnnouncerARBRising.saf
+File size: 58764 bytes
+File 10
+File name: AnnouncerARBSnub.saf
+File size: 87708 bytes
+File 11
+File name: AnnouncerARBSpPower.saf
+File size: 93252 bytes
+File 12
+File name: AnnouncerARBStillLead.saf
+File size: 77304 bytes
+File 13
+File name: AnnouncerARBTag.saf
+File size: 110532 bytes
+File 14
+File name: AnnouncerARBVerge.saf
+File size: 107616 bytes
+File 15
+File name: AnnouncerARBWin.saf
+File size: 85188 bytes
+File 16
+File name: AnnouncerARBWinning.saf
+File size: 75072 bytes
+File 17
+File name: AnnouncerBaseball.saf
+File size: 90732 bytes
+File 18
+File name: AnnouncerChicken100.saf
+File size: 110640 bytes
+File 19
+File name: AnnouncerChicken150.saf
+File size: 136020 bytes
+File 20
+File name: AnnouncerChicken200.saf
+File size: 106536 bytes
+File 21
+File name: AnnouncerChicken50.saf
+File size: 108372 bytes
+File 22
+File name: AnnouncerClose1.saf
+File size: 49332 bytes
+File 23
+File name: AnnouncerClose2.saf
+File size: 53688 bytes
+File 24
+File name: AnnouncerClose3.saf
+File size: 58296 bytes
+File 25
+File name: AnnouncerClose4.saf
+File size: 48144 bytes
+File 26
+File name: AnnouncerClose5.saf
+File size: 43716 bytes
+File 27
+File name: AnnouncerCombat100.saf
+File size: 107256 bytes
+File 28
+File name: AnnouncerCombat150.saf
+File size: 109380 bytes
+File 29
+File name: AnnouncerCombat200.saf
+File size: 105204 bytes
+File 30
+File name: AnnouncerCombat400.saf
+File size: 88032 bytes
+File 31
+File name: AnnouncerCombat50.saf
+File size: 109848 bytes
+File 32
+File name: AnnouncerDBACellar.saf
+File size: 92424 bytes
+File 33
+File name: AnnouncerDBADodgeDead.saf
+File size: 66216 bytes
+File 34
+File name: AnnouncerDBAFalling.saf
+File size: 58728 bytes
+File 35
+File name: AnnouncerDBAGodBeam.saf
+File size: 114168 bytes
+File 36
+File name: AnnouncerDBAHasTrophy.saf
+File size: 60708 bytes
+File 37
+File name: AnnouncerDBAKickme.saf
+File size: 90264 bytes
+File 38
+File name: AnnouncerDBALeadChange.saf
+File size: 42492 bytes
+File 39
+File name: AnnouncerDBANearWin.saf
+File size: 71724 bytes
+File 40
+File name: AnnouncerDBARising.saf
+File size: 83712 bytes
+File 41
+File name: AnnouncerDBASnub.saf
+File size: 91704 bytes
+File 42
+File name: AnnouncerDBASpPower.saf
+File size: 85800 bytes
+File 43
+File name: AnnouncerDBAStillLead.saf
+File size: 69600 bytes
+File 44
+File name: AnnouncerDBATag.saf
+File size: 87240 bytes
+File 45
+File name: AnnouncerDBAVerge.saf
+File size: 109632 bytes
+File 46
+File name: AnnouncerDBAWin.saf
+File size: 93252 bytes
+File 47
+File name: AnnouncerDBAWinning.saf
+File size: 78996 bytes
+File 48
+File name: AnnouncerDeath.saf
+File size: 64416 bytes
+File 49
+File name: AnnouncerDeathsAll1.saf
+File size: 50088 bytes
+File 50
+File name: AnnouncerDeathsAll2.saf
+File size: 76692 bytes
+File 51
+File name: AnnouncerDeathsAll3.saf
+File size: 52392 bytes
+File 52
+File name: AnnouncerDeathsOne1.saf
+File size: 73272 bytes
+File 53
+File name: AnnouncerDeathsOne2.saf
+File size: 54372 bytes
+File 54
+File name: AnnouncerDeathsOne3.saf
+File size: 74604 bytes
+File 55
+File name: AnnouncerDodgeball.saf
+File size: 117732 bytes
+File 56
+File name: AnnouncerEGBCellar.saf
+File size: 70176 bytes
+File 57
+File name: AnnouncerEGBDodgeDead.saf
+File size: 48072 bytes
+File 58
+File name: AnnouncerEGBFalling.saf
+File size: 67692 bytes
+File 59
+File name: AnnouncerEGBGodBeam.saf
+File size: 135192 bytes
+File 60
+File name: AnnouncerEGBHasTrophy.saf
+File size: 52356 bytes
+File 61
+File name: AnnouncerEGBKickme.saf
+File size: 87528 bytes
+File 62
+File name: AnnouncerEGBLeadChange.saf
+File size: 47100 bytes
+File 63
+File name: AnnouncerEGBNearWin.saf
+File size: 86628 bytes
+File 64
+File name: AnnouncerEGBRising.saf
+File size: 85080 bytes
+File 65
+File name: AnnouncerEGBSnub.saf
+File size: 86916 bytes
+File 66
+File name: AnnouncerEGBSpPower.saf
+File size: 84576 bytes
+File 67
+File name: AnnouncerEGBStillLead.saf
+File size: 62940 bytes
+File 68
+File name: AnnouncerEGBTag.saf
+File size: 90912 bytes
+File 69
+File name: AnnouncerEGBVerge.saf
+File size: 103116 bytes
+File 70
+File name: AnnouncerEGBWin.saf
+File size: 95304 bytes
+File 71
+File name: AnnouncerEGBWinning.saf
+File size: 42096 bytes
+File 72
+File name: AnnouncerExclPoint.saf
+File size: 80868 bytes
+File 73
+File name: AnnouncerFisheye.saf
+File size: 33456 bytes
+File 74
+File name: AnnouncerFragStart10.saf
+File size: 124356 bytes
+File 75
+File name: AnnouncerFragStart3.saf
+File size: 129468 bytes
+File 76
+File name: AnnouncerFragStart5.saf
+File size: 128172 bytes
+File 77
+File name: AnnouncerFragStart7.saf
+File size: 127848 bytes
+File 78
+File name: AnnouncerFragSudDeath.saf
+File size: 154992 bytes
+File 79
+File name: AnnouncerGOHCellar.saf
+File size: 59232 bytes
+File 80
+File name: AnnouncerGOHDodgeDead.saf
+File size: 46668 bytes
+File 81
+File name: AnnouncerGOHFalling.saf
+File size: 64632 bytes
+File 82
+File name: AnnouncerGOHGodBeam.saf
+File size: 124176 bytes
+File 83
+File name: AnnouncerGOHHasTrophy.saf
+File size: 39828 bytes
+File 84
+File name: AnnouncerGOHKickme.saf
+File size: 72336 bytes
+File 85
+File name: AnnouncerGOHLeadChange.saf
+File size: 39792 bytes
+File 86
+File name: AnnouncerGOHNearWin.saf
+File size: 48288 bytes
+File 87
+File name: AnnouncerGOHRising.saf
+File size: 44004 bytes
+File 88
+File name: AnnouncerGOHSnub.saf
+File size: 71724 bytes
+File 89
+File name: AnnouncerGOHSpPower.saf
+File size: 106752 bytes
+File 90
+File name: AnnouncerGOHStillLead.saf
+File size: 53400 bytes
+File 91
+File name: AnnouncerGOHTag.saf
+File size: 69996 bytes
+File 92
+File name: AnnouncerGOHVerge.saf
+File size: 52140 bytes
+File 93
+File name: AnnouncerGOHWin.saf
+File size: 89040 bytes
+File 94
+File name: AnnouncerGOHWinning.saf
+File size: 48000 bytes
+File 95
+File name: AnnouncerGrabRunStart1.saf
+File size: 157800 bytes
+File 96
+File name: AnnouncerGrabRunStart2.saf
+File size: 133212 bytes
+File 97
+File name: AnnouncerGrabRunStart3.saf
+File size: 135264 bytes
+File 98
+File name: AnnouncerGrabRunStart4.saf
+File size: 132564 bytes
+File 99
+File name: AnnouncerGYGCellar.saf
+File size: 80652 bytes
+File 100
+File name: AnnouncerGYGDodgeDead.saf
+File size: 38964 bytes
+File 101
+File name: AnnouncerGYGFalling.saf
+File size: 63552 bytes
+File 102
+File name: AnnouncerGYGGodBeam.saf
+File size: 113160 bytes
+File 103
+File name: AnnouncerGYGHasTrophy.saf
+File size: 49512 bytes
+File 104
+File name: AnnouncerGYGKickme.saf
+File size: 73092 bytes
+File 105
+File name: AnnouncerGYGLeadChange.saf
+File size: 47856 bytes
+File 106
+File name: AnnouncerGYGNearWin.saf
+File size: 75972 bytes
+File 107
+File name: AnnouncerGYGRising.saf
+File size: 69240 bytes
+File 108
+File name: AnnouncerGYGSnub.saf
+File size: 113736 bytes
+File 109
+File name: AnnouncerGYGSpPower.saf
+File size: 90408 bytes
+File 110
+File name: AnnouncerGYGStillLead.saf
+File size: 70104 bytes
+File 111
+File name: AnnouncerGYGTag.saf
+File size: 94656 bytes
+File 112
+File name: AnnouncerGYGVerge.saf
+File size: 74712 bytes
+File 113
+File name: AnnouncerGYGWin.saf
+File size: 94584 bytes
+File 114
+File name: AnnouncerGYGWinning.saf
+File size: 54156 bytes
+File 115
+File name: AnnouncerHellStart.saf
+File size: 125976 bytes
+File 116
+File name: AnnouncerHub1Intro.saf
+File size: 402672 bytes
+File 117
+File name: AnnouncerHub1Return.saf
+File size: 209388 bytes
+File 118
+File name: AnnouncerHub2Intro.saf
+File size: 166260 bytes
+File 119
+File name: AnnouncerHub3Intro.saf
+File size: 122844 bytes
+File 120
+File name: AnnouncerHub4Intro.saf
+File size: 182604 bytes
+File 121
+File name: AnnouncerKOTHStart1.saf
+File size: 164640 bytes
+File 122
+File name: AnnouncerKOTHStart2.saf
+File size: 175116 bytes
+File 123
+File name: AnnouncerKOTHStart3.saf
+File size: 177024 bytes
+File 124
+File name: AnnouncerKOTHStart4.saf
+File size: 176772 bytes
+File 125
+File name: AnnouncerLBGCellar.saf
+File size: 90624 bytes
+File 126
+File name: AnnouncerLBGDodgeDead.saf
+File size: 50952 bytes
+File 127
+File name: AnnouncerLBGFalling.saf
+File size: 51384 bytes
+File 128
+File name: AnnouncerLBGGodBeam.saf
+File size: 131196 bytes
+File 129
+File name: AnnouncerLBGHasTrophy.saf
+File size: 47748 bytes
+File 130
+File name: AnnouncerLBGKickme.saf
+File size: 89040 bytes
+File 131
+File name: AnnouncerLBGLeadChange.saf
+File size: 42852 bytes
+File 132
+File name: AnnouncerLBGNearWin.saf
+File size: 51708 bytes
+File 133
+File name: AnnouncerLBGRising.saf
+File size: 52428 bytes
+File 134
+File name: AnnouncerLBGSnub.saf
+File size: 47568 bytes
+File 135
+File name: AnnouncerLBGSpPower.saf
+File size: 103584 bytes
+File 136
+File name: AnnouncerLBGStillLead.saf
+File size: 59160 bytes
+File 137
+File name: AnnouncerLBGTag.saf
+File size: 87204 bytes
+File 138
+File name: AnnouncerLBGVerge.saf
+File size: 91596 bytes
+File 139
+File name: AnnouncerLBGWin.saf
+File size: 90444 bytes
+File 140
+File name: AnnouncerLBGWinning.saf
+File size: 60492 bytes
+File 141
+File name: AnnouncerLvlArctic.saf
+File size: 48360 bytes
+File 142
+File name: AnnouncerLvlCanCan.saf
+File size: 30432 bytes
+File 143
+File name: AnnouncerLvlCarCrash.saf
+File size: 46092 bytes
+File 144
+File name: AnnouncerLvlClubBano.saf
+File size: 50772 bytes
+File 145
+File name: AnnouncerLvlDeathWall.saf
+File size: 26652 bytes
+File 146
+File name: AnnouncerLvlHighRise.saf
+File size: 46092 bytes
+File 147
+File name: AnnouncerLvlJoyride.saf
+File size: 41952 bytes
+File 148
+File name: AnnouncerLvlKitchen.saf
+File size: 51564 bytes
+File 149
+File name: AnnouncerLvlPirateShip.saf
+File size: 40476 bytes
+File 150
+File name: AnnouncerLvlSpacewalk.saf
+File size: 35508 bytes
+File 151
+File name: AnnouncerLvlTrespass.saf
+File size: 58656 bytes
+File 152
+File name: AnnouncerLvlXMasTree.saf
+File size: 49440 bytes
+File 153
+File name: AnnouncerMinefield.saf
+File size: 69672 bytes
+File 154
+File name: AnnouncerMissileFest.saf
+File size: 120072 bytes
+File 155
+File name: AnnouncerPPLCellar.saf
+File size: 75072 bytes
+File 156
+File name: AnnouncerPPLDodgeDead.saf
+File size: 37596 bytes
+File 157
+File name: AnnouncerPPLFalling.saf
+File size: 88176 bytes
+File 158
+File name: AnnouncerPPLGodBeam.saf
+File size: 132204 bytes
+File 159
+File name: AnnouncerPPLHasTrophy.saf
+File size: 50268 bytes
+File 160
+File name: AnnouncerPPLKickme.saf
+File size: 89760 bytes
+File 161
+File name: AnnouncerPPLLeadChange.saf
+File size: 43068 bytes
+File 162
+File name: AnnouncerPPLNearWin.saf
+File size: 61428 bytes
+File 163
+File name: AnnouncerPPLRising.saf
+File size: 57864 bytes
+File 164
+File name: AnnouncerPPLSnub.saf
+File size: 64848 bytes
+File 165
+File name: AnnouncerPPLSpPower.saf
+File size: 97464 bytes
+File 166
+File name: AnnouncerPPLStillLead.saf
+File size: 72732 bytes
+File 167
+File name: AnnouncerPPLTag.saf
+File size: 89760 bytes
+File 168
+File name: AnnouncerPPLVerge.saf
+File size: 54192 bytes
+File 169
+File name: AnnouncerPPLWin.saf
+File size: 92856 bytes
+File 170
+File name: AnnouncerPPLWinning.saf
+File size: 61140 bytes
+File 171
+File name: AnnouncerSanity.saf
+File size: 80040 bytes
+File 172
+File name: AnnouncerSBCCellar.saf
+File size: 48180 bytes
+File 173
+File name: AnnouncerSBCDodgeDead.saf
+File size: 38856 bytes
+File 174
+File name: AnnouncerSBCFalling.saf
+File size: 78384 bytes
+File 175
+File name: AnnouncerSBCGodBeam.saf
+File size: 114168 bytes
+File 176
+File name: AnnouncerSBCHasTrophy.saf
+File size: 49980 bytes
+File 177
+File name: AnnouncerSBCKickme.saf
+File size: 82668 bytes
+File 178
+File name: AnnouncerSBCLeadChange.saf
+File size: 45552 bytes
+File 179
+File name: AnnouncerSBCNearWin.saf
+File size: 74964 bytes
+File 180
+File name: AnnouncerSBCRising.saf
+File size: 64272 bytes
+File 181
+File name: AnnouncerSBCSnub.saf
+File size: 97896 bytes
+File 182
+File name: AnnouncerSBCSpPower.saf
+File size: 92424 bytes
+File 183
+File name: AnnouncerSBCStillLead.saf
+File size: 46668 bytes
+File 184
+File name: AnnouncerSBCTag.saf
+File size: 105816 bytes
+File 185
+File name: AnnouncerSBCVerge.saf
+File size: 102072 bytes
+File 186
+File name: AnnouncerSBCWin.saf
+File size: 88680 bytes
+File 187
+File name: AnnouncerSBCWinning.saf
+File size: 49440 bytes
+File 188
+File name: AnnouncerScreenFlip.saf
+File size: 85260 bytes
+File 189
+File name: AnnouncerSponsor.saf
+File size: 60852 bytes
+File 190
+File name: AnnouncerSwap.saf
+File size: 117768 bytes
+File 191
+File name: AnnouncerWpnArmor.saf
+File size: 31872 bytes
+File 192
+File name: AnnouncerWpnBat.saf
+File size: 48900 bytes
+File 193
+File name: AnnouncerWpnBeeHive.saf
+File size: 33348 bytes
+File 194
+File name: AnnouncerWpnCactus.saf
+File size: 26472 bytes
+File 195
+File name: AnnouncerWpnCanon.saf
+File size: 22800 bytes
+File 196
+File name: AnnouncerWpnCleaver.saf
+File size: 53940 bytes
+File 197
+File name: AnnouncerWpnDodge.saf
+File size: 26616 bytes
+File 198
+File name: AnnouncerWpnDog.saf
+File size: 37452 bytes
+File 199
+File name: AnnouncerWpnDoubleUp.saf
+File size: 17940 bytes
+File 200
+File name: AnnouncerWpnDuck.saf
+File size: 42312 bytes
+File 201
+File name: AnnouncerWpnFeedFrenz.saf
+File size: 43500 bytes
+File 202
+File name: AnnouncerWpnFreedFenz.saf
+File size: 41880 bytes
+File 203
+File name: AnnouncerWpnFreeze.saf
+File size: 41880 bytes
+File 204
+File name: AnnouncerWpnInvis.saf
+File size: 36300 bytes
+File 205
+File name: AnnouncerWpnMallet.saf
+File size: 22188 bytes
+File 206
+File name: AnnouncerWpnMines.saf
+File size: 46272 bytes
+File 207
+File name: AnnouncerWpnMissile.saf
+File size: 31440 bytes
+File 208
+File name: AnnouncerWpnOnFire.saf
+File size: 30108 bytes
+File 209
+File name: AnnouncerWpnPitchfork.saf
+File size: 25428 bytes
+File 210
+File name: AnnouncerWpnPlague.saf
+File size: 30720 bytes
+File 211
+File name: AnnouncerWpnPlungMsl.saf
+File size: 42528 bytes
+File 212
+File name: AnnouncerWpnShish.saf
+File size: 49080 bytes
+File 213
+File name: AnnouncerWpnShocker.saf
+File size: 42204 bytes
+File 214
+File name: AnnouncerWpnStapler.saf
+File size: 46128 bytes
+File 215
+File name: AnnouncerWpnSticky.saf
+File size: 43500 bytes
+File 216
+File name: AnnouncerWpnSuicide.saf
+File size: 26616 bytes
+File 217
+File name: AnnouncerWpnUrp.saf
+File size: 13260 bytes
+File 218
+File name: AnnouncerWpnVacuum.saf
+File size: 24852 bytes
+File 219
+File name: AnnouncerWpnVampiro.saf
+File size: 32340 bytes
+File 220
+File name: AnnouncerWpnYolk.saf
+File size: 36300 bytes
+File 221
+File name: AnnouncerZombieStars.saf
+File size: 65208 bytes
+File 222
+File name: ApplauseStudio.saf
+File size: 375528 bytes
+File 223
+File name: ARB_Death1.saf
+File size: 36048 bytes
+File 224
+File name: ARB_Death10.saf
+File size: 31836 bytes
+File 225
+File name: ARB_Death2.saf
+File size: 36156 bytes
+File 226
+File name: ARB_Death3.saf
+File size: 59484 bytes
+File 227
+File name: ARB_Death4.saf
+File size: 37344 bytes
+File 228
+File name: ARB_Death5.saf
+File size: 36768 bytes
+File 229
+File name: ARB_Death6.saf
+File size: 36768 bytes
+File 230
+File name: ARB_Death7.saf
+File size: 36588 bytes
+File 231
+File name: ARB_Death8.saf
+File size: 21972 bytes
+File 232
+File name: ARB_Death9.saf
+File size: 36876 bytes
+File 233
+File name: ARB_Frozen.saf
+File size: 205752 bytes
+File 234
+File name: ARB_GetPowerup1.saf
+File size: 16392 bytes
+File 235
+File name: ARB_GetPowerup2.saf
+File size: 16320 bytes
+File 236
+File name: ARB_GetWeapon1.saf
+File size: 29172 bytes
+File 237
+File name: ARB_GetWeapon10.saf
+File size: 18804 bytes
+File 238
+File name: ARB_GetWeapon11.saf
+File size: 29388 bytes
+File 239
+File name: ARB_GetWeapon12.saf
+File size: 16932 bytes
+File 240
+File name: ARB_GetWeapon13.saf
+File size: 24132 bytes
+File 241
+File name: ARB_GetWeapon14.saf
+File size: 32772 bytes
+File 242
+File name: ARB_GetWeapon15.saf
+File size: 28524 bytes
+File 243
+File name: ARB_GetWeapon2.saf
+File size: 19200 bytes
+File 244
+File name: ARB_GetWeapon3.saf
+File size: 35004 bytes
+File 245
+File name: ARB_GetWeapon4.saf
+File size: 51960 bytes
+File 246
+File name: ARB_GetWeapon5.saf
+File size: 27984 bytes
+File 247
+File name: ARB_GetWeapon6.saf
+File size: 29388 bytes
+File 248
+File name: ARB_GetWeapon7.saf
+File size: 39252 bytes
+File 249
+File name: ARB_GetWeapon8.saf
+File size: 18948 bytes
+File 250
+File name: ARB_GetWeapon9.saf
+File size: 34392 bytes
+File 251
+File name: ARB_Lose1.saf
+File size: 39936 bytes
+File 252
+File name: ARB_Lose2.saf
+File size: 47712 bytes
+File 253
+File name: ARB_Lose3.saf
+File size: 49188 bytes
+File 254
+File name: ARB_Lose4.saf
+File size: 109236 bytes
+File 255
+File name: ARB_Lose5.saf
+File size: 82596 bytes
+File 256
+File name: ARB_OnFire.saf
+File size: 255072 bytes
+File 257
+File name: ARB_Plague.saf
+File size: 81696 bytes
+File 258
+File name: ARB_Scream1.saf
+File size: 88896 bytes
+File 259
+File name: ARB_Scream2.saf
+File size: 98292 bytes
+File 260
+File name: ARB_StealWeapon1.saf
+File size: 17508 bytes
+File 261
+File name: ARB_StealWeapon2.saf
+File size: 28884 bytes
+File 262
+File name: ARB_Win1.saf
+File size: 56604 bytes
+File 263
+File name: ARB_Win2.saf
+File size: 50592 bytes
+File 264
+File name: ARB_Win3.saf
+File size: 133680 bytes
+File 265
+File name: ARB_Win4.saf
+File size: 62472 bytes
+File 266
+File name: ARB_Win5.saf
+File size: 77124 bytes
+File 267
+File name: BatterUp.saf
+File size: 376032 bytes
+File 268
+File name: BurgerDeath.saf
+File size: 25824 bytes
+File 269
+File name: Chicken01.wav
+File size: 7392 bytes
+File 270
+File name: Chicken02.wav
+File size: 33960 bytes
+File 271
+File name: Chicken03.wav
+File size: 24672 bytes
+File 272
+File name: Chicken04.wav
+File size: 11892 bytes
+File 273
+File name: Chicken05.wav
+File size: 24060 bytes
+File 274
+File name: Chicken06.wav
+File size: 25932 bytes
+File 275
+File name: Chicken07.wav
+File size: 5016 bytes
+File 276
+File name: Chicken08.wav
+File size: 10884 bytes
+File 277
+File name: Chicken09.wav
+File size: 10992 bytes
+File 278
+File name: Chicken10.wav
+File size: 30000 bytes
+File 279
+File name: ChickenExplode1.wav
+File size: 19956 bytes
+File 280
+File name: ChickenExplode2.wav
+File size: 20784 bytes
+File 281
+File name: ChickenExplode3.wav
+File size: 22980 bytes
+File 282
+File name: ChickenPeck.wav
+File size: 5196 bytes
+File 283
+File name: ChickenTestosterone.wav
+File size: 10308 bytes
+File 284
+File name: DBA_Death1.saf
+File size: 53076 bytes
+File 285
+File name: DBA_Death2.saf
+File size: 31044 bytes
+File 286
+File name: DBA_Death3.saf
+File size: 33204 bytes
+File 287
+File name: DBA_Death4.saf
+File size: 48504 bytes
+File 288
+File name: DBA_Death5.saf
+File size: 35220 bytes
+File 289
+File name: DBA_Frozen.saf
+File size: 99300 bytes
+File 290
+File name: DBA_GetPowerup1.saf
+File size: 26796 bytes
+File 291
+File name: DBA_GetPowerup2.saf
+File size: 15960 bytes
+File 292
+File name: DBA_GetPowerup3.saf
+File size: 45048 bytes
+File 293
+File name: DBA_GetPowerup4.saf
+File size: 24852 bytes
+File 294
+File name: DBA_GetWeapon1.saf
+File size: 38532 bytes
+File 295
+File name: DBA_GetWeapon2.saf
+File size: 41520 bytes
+File 296
+File name: DBA_GetWeapon3.saf
+File size: 60060 bytes
+File 297
+File name: DBA_GetWeapon4.saf
+File size: 40224 bytes
+File 298
+File name: DBA_GetWeapon5.saf
+File size: 58152 bytes
+File 299
+File name: DBA_GetWeapon6.saf
+File size: 55632 bytes
+File 300
+File name: DBA_GetWeapon7.saf
+File size: 64092 bytes
+File 301
+File name: DBA_Lose1.saf
+File size: 34464 bytes
+File 302
+File name: DBA_Lose2.saf
+File size: 77520 bytes
+File 303
+File name: DBA_Lose3.saf
+File size: 51744 bytes
+File 304
+File name: DBA_Lose4.saf
+File size: 30180 bytes
+File 305
+File name: DBA_Lose5.saf
+File size: 51168 bytes
+File 306
+File name: DBA_Lose6.saf
+File size: 15708 bytes
+File 307
+File name: DBA_OnFire.saf
+File size: 95124 bytes
+File 308
+File name: DBA_Plague.saf
+File size: 81696 bytes
+File 309
+File name: DBA_Scene03_Charity.saf
+File size: 314076 bytes
+File 310
+File name: DBA_Scene03_Eugene.saf
+File size: 336504 bytes
+File 311
+File name: DBA_Scene03_Lance.saf
+File size: 304032 bytes
+File 312
+File name: DBA_Scene03_Lucky.saf
+File size: 222096 bytes
+File 313
+File name: DBA_Scene03_Lucy.saf
+File size: 193692 bytes
+File 314
+File name: DBA_Scene03_Otto.saf
+File size: 248844 bytes
+File 315
+File name: DBA_Scene03_Toof.saf
+File size: 199704 bytes
+File 316
+File name: DBA_Scream.saf
+File size: 166188 bytes
+File 317
+File name: DBA_StealWeapon1.saf
+File size: 26364 bytes
+File 318
+File name: DBA_StealWeapon2.saf
+File size: 26364 bytes
+File 319
+File name: DBA_Win1.saf
+File size: 90660 bytes
+File 320
+File name: DeathLoop.saf
+File size: 529248 bytes
+File 321
+File name: EGB_Death1.saf
+File size: 22584 bytes
+File 322
+File name: EGB_Death2.saf
+File size: 28632 bytes
+File 323
+File name: EGB_Death3.saf
+File size: 58368 bytes
+File 324
+File name: EGB_Death4.saf
+File size: 63876 bytes
+File 325
+File name: EGB_Death5.saf
+File size: 78636 bytes
+File 326
+File name: EGB_Death6.saf
+File size: 30900 bytes
+File 327
+File name: EGB_Death7.saf
+File size: 36192 bytes
+File 328
+File name: EGB_Death8.saf
+File size: 41124 bytes
+File 329
+File name: EGB_Death9.saf
+File size: 18912 bytes
+File 330
+File name: EGB_Flying.saf
+File size: 81120 bytes
+File 331
+File name: EGB_Frozen.saf
+File size: 158772 bytes
+File 332
+File name: EGB_GetPowerup1.saf
+File size: 79284 bytes
+File 333
+File name: EGB_GetPowerup2.saf
+File size: 57576 bytes
+File 334
+File name: EGB_GetPowerup3.saf
+File size: 67260 bytes
+File 335
+File name: EGB_GetWeapon1.saf
+File size: 54048 bytes
+File 336
+File name: EGB_GetWeapon10.saf
+File size: 10812 bytes
+File 337
+File name: EGB_GetWeapon11.saf
+File size: 10704 bytes
+File 338
+File name: EGB_GetWeapon2.saf
+File size: 48828 bytes
+File 339
+File name: EGB_GetWeapon3.saf
+File size: 20208 bytes
+File 340
+File name: EGB_GetWeapon4.saf
+File size: 32052 bytes
+File 341
+File name: EGB_GetWeapon5.saf
+File size: 27300 bytes
+File 342
+File name: EGB_GetWeapon6.saf
+File size: 22008 bytes
+File 343
+File name: EGB_GetWeapon7.saf
+File size: 30144 bytes
+File 344
+File name: EGB_GetWeapon8.saf
+File size: 14772 bytes
+File 345
+File name: EGB_GetWeapon9.saf
+File size: 21432 bytes
+File 346
+File name: EGB_Lose1.saf
+File size: 92568 bytes
+File 347
+File name: EGB_Lose2.saf
+File size: 64740 bytes
+File 348
+File name: EGB_Lose3.saf
+File size: 117228 bytes
+File 349
+File name: EGB_Lose4.saf
+File size: 91704 bytes
+File 350
+File name: EGB_Lose5.saf
+File size: 58116 bytes
+File 351
+File name: EGB_Lose6.saf
+File size: 138828 bytes
+File 352
+File name: EGB_Lose7.saf
+File size: 55884 bytes
+File 353
+File name: EGB_OnFire.saf
+File size: 95124 bytes
+File 354
+File name: EGB_Plague.saf
+File size: 81696 bytes
+File 355
+File name: EGB_Scream1.saf
+File size: 122304 bytes
+File 356
+File name: EGB_Scream2.saf
+File size: 165720 bytes
+File 357
+File name: EGB_StealWeapon1.saf
+File size: 29604 bytes
+File 358
+File name: EGB_StealWeapon2.saf
+File size: 42168 bytes
+File 359
+File name: EGB_Win1.saf
+File size: 73200 bytes
+File 360
+File name: EGB_Win2.saf
+File size: 68448 bytes
+File 361
+File name: EGB_Win3.saf
+File size: 93828 bytes
+File 362
+File name: EGB_Win4.saf
+File size: 97032 bytes
+File 363
+File name: EGB_Win5.saf
+File size: 101856 bytes
+File 364
+File name: ExclamationMarkMusic.saf
+File size: 341256 bytes
+File 365
+File name: ExclamationPointEnd.saf
+File size: 100848 bytes
+File 366
+File name: ExclamationPointTrigger.saf
+File size: 155496 bytes
+File 367
+File name: FireLoop.wav
+File size: 31728 bytes
+File 368
+File name: FishEye.saf
+File size: 355440 bytes
+File 369
+File name: GlobalEnd.saf
+File size: 30360 bytes
+File 370
+File name: GlobalTrigger.saf
+File size: 34104 bytes
+File 371
+File name: GOH_Death1.saf
+File size: 48468 bytes
+File 372
+File name: GOH_Frozen.saf
+File size: 157116 bytes
+File 373
+File name: GOH_GetPowerup1.saf
+File size: 19884 bytes
+File 374
+File name: GOH_GetWeapon1.saf
+File size: 17472 bytes
+File 375
+File name: GOH_GetWeapon2.saf
+File size: 16896 bytes
+File 376
+File name: GOH_GetWeapon3.saf
+File size: 20784 bytes
+File 377
+File name: GOH_GetWeapon4.saf
+File size: 10812 bytes
+File 378
+File name: GOH_Lose1.saf
+File size: 86340 bytes
+File 379
+File name: GOH_Lose2.saf
+File size: 52392 bytes
+File 380
+File name: GOH_Lose3.saf
+File size: 58476 bytes
+File 381
+File name: GOH_OnFire.saf
+File size: 95124 bytes
+File 382
+File name: GOH_Plague.saf
+File size: 81696 bytes
+File 383
+File name: GOH_Scream.saf
+File size: 46092 bytes
+File 384
+File name: GOH_StealWeapon1.saf
+File size: 34968 bytes
+File 385
+File name: GOH_StealWeapon2.saf
+File size: 15312 bytes
+File 386
+File name: GOH_StealWeapon3.saf
+File size: 28704 bytes
+File 387
+File name: GOH_StealWeapon4.saf
+File size: 35904 bytes
+File 388
+File name: GOH_Win1.saf
+File size: 36840 bytes
+File 389
+File name: GOH_Win2.saf
+File size: 47928 bytes
+File 390
+File name: GOH_Win3.saf
+File size: 109956 bytes
+File 391
+File name: GOH_Win4.saf
+File size: 40512 bytes
+File 392
+File name: GYG_Death1.saf
+File size: 75576 bytes
+File 393
+File name: GYG_Death2.saf
+File size: 52932 bytes
+File 394
+File name: GYG_Death3.saf
+File size: 66504 bytes
+File 395
+File name: GYG_Death4.saf
+File size: 40692 bytes
+File 396
+File name: GYG_Death5.saf
+File size: 33492 bytes
+File 397
+File name: GYG_Death6.saf
+File size: 36984 bytes
+File 398
+File name: GYG_Death7.saf
+File size: 43932 bytes
+File 399
+File name: GYG_Death8.saf
+File size: 31368 bytes
+File 400
+File name: GYG_Death9.saf
+File size: 19452 bytes
+File 401
+File name: GYG_Frozen.saf
+File size: 250860 bytes
+File 402
+File name: GYG_GetPowerup1.saf
+File size: 29316 bytes
+File 403
+File name: GYG_GetPowerup2.saf
+File size: 41304 bytes
+File 404
+File name: GYG_GetPowerup3.saf
+File size: 40260 bytes
+File 405
+File name: GYG_GetPowerup4.saf
+File size: 35724 bytes
+File 406
+File name: GYG_GetWeapon1.saf
+File size: 30900 bytes
+File 407
+File name: GYG_GetWeapon10.saf
+File size: 21036 bytes
+File 408
+File name: GYG_GetWeapon11.saf
+File size: 23412 bytes
+File 409
+File name: GYG_GetWeapon2.saf
+File size: 32880 bytes
+File 410
+File name: GYG_GetWeapon3.saf
+File size: 27048 bytes
+File 411
+File name: GYG_GetWeapon4.saf
+File size: 17112 bytes
+File 412
+File name: GYG_GetWeapon5.saf
+File size: 33168 bytes
+File 413
+File name: GYG_GetWeapon6.saf
+File size: 35364 bytes
+File 414
+File name: GYG_GetWeapon7.saf
+File size: 10056 bytes
+File 415
+File name: GYG_GetWeapon8.saf
+File size: 29424 bytes
+File 416
+File name: GYG_GetWeapon9.saf
+File size: 32196 bytes
+File 417
+File name: GYG_Lose1.saf
+File size: 75288 bytes
+File 418
+File name: GYG_Lose2.saf
+File size: 54624 bytes
+File 419
+File name: GYG_Lose3.saf
+File size: 68448 bytes
+File 420
+File name: GYG_Lose4.saf
+File size: 49044 bytes
+File 421
+File name: GYG_Lose5.saf
+File size: 75936 bytes
+File 422
+File name: GYG_Lose6.saf
+File size: 82812 bytes
+File 423
+File name: GYG_Mine.saf
+File size: 35364 bytes
+File 424
+File name: GYG_OnFire.saf
+File size: 95124 bytes
+File 425
+File name: GYG_Plague.saf
+File size: 81696 bytes
+File 426
+File name: GYG_Scream1.saf
+File size: 57504 bytes
+File 427
+File name: GYG_Scream2.saf
+File size: 103692 bytes
+File 428
+File name: GYG_Scream3.saf
+File size: 109380 bytes
+File 429
+File name: GYG_StealWeapon1.saf
+File size: 13152 bytes
+File 430
+File name: GYG_StealWeapon2.saf
+File size: 51780 bytes
+File 431
+File name: GYG_StealWeapon3.saf
+File size: 38784 bytes
+File 432
+File name: GYG_Win1.saf
+File size: 73020 bytes
+File 433
+File name: GYG_Win2.saf
+File size: 39972 bytes
+File 434
+File name: GYG_Win3.saf
+File size: 56028 bytes
+File 435
+File name: GYG_Win4.saf
+File size: 64200 bytes
+File 436
+File name: GYG_Win5.saf
+File size: 40944 bytes
+File 437
+File name: Inflate.WAV
+File size: 16572 bytes
+File 438
+File name: InterfaceCountdownBoop.wav
+File size: 2064 bytes
+File 439
+File name: InterfaceMove.wav
+File size: 2640 bytes
+File 440
+File name: InterfaceReject.wav
+File size: 4584 bytes
+File 441
+File name: InterfaceSelect.wav
+File size: 3720 bytes
+File 442
+File name: InterfaceUnlock.wav
+File size: 81840 bytes
+File 443
+File name: It.saf
+File size: 493536 bytes
+File 444
+File name: LBG_Death1.saf
+File size: 27984 bytes
+File 445
+File name: LBG_Death2.saf
+File size: 55812 bytes
+File 446
+File name: LBG_Death3.saf
+File size: 53040 bytes
+File 447
+File name: LBG_Death4.saf
+File size: 39756 bytes
+File 448
+File name: LBG_Death5.saf
+File size: 75648 bytes
+File 449
+File name: LBG_Death6.saf
+File size: 28200 bytes
+File 450
+File name: LBG_Death7.saf
+File size: 37704 bytes
+File 451
+File name: LBG_Death8.saf
+File size: 47064 bytes
+File 452
+File name: LBG_Frozen.saf
+File size: 160248 bytes
+File 453
+File name: LBG_GetPowerup1.saf
+File size: 55668 bytes
+File 454
+File name: LBG_GetPowerup2.saf
+File size: 19740 bytes
+File 455
+File name: LBG_GetWeapon1.saf
+File size: 25032 bytes
+File 456
+File name: LBG_GetWeapon10.saf
+File size: 45840 bytes
+File 457
+File name: LBG_GetWeapon11.saf
+File size: 16788 bytes
+File 458
+File name: LBG_GetWeapon12.saf
+File size: 16392 bytes
+File 459
+File name: LBG_GetWeapon2.saf
+File size: 34788 bytes
+File 460
+File name: LBG_GetWeapon3.saf
+File size: 37848 bytes
+File 461
+File name: LBG_GetWeapon4.saf
+File size: 44832 bytes
+File 462
+File name: LBG_GetWeapon5.saf
+File size: 27552 bytes
+File 463
+File name: LBG_GetWeapon6.saf
+File size: 36012 bytes
+File 464
+File name: LBG_GetWeapon7.saf
+File size: 31620 bytes
+File 465
+File name: LBG_GetWeapon8.saf
+File size: 51888 bytes
+File 466
+File name: LBG_GetWeapon9.saf
+File size: 27120 bytes
+File 467
+File name: LBG_Kiss.saf
+File size: 18768 bytes
+File 468
+File name: LBG_Lose1.saf
+File size: 40368 bytes
+File 469
+File name: LBG_Lose2.saf
+File size: 48468 bytes
+File 470
+File name: LBG_Lose3.saf
+File size: 90012 bytes
+File 471
+File name: LBG_Lose4.saf
+File size: 68844 bytes
+File 472
+File name: LBG_Lose5.saf
+File size: 159420 bytes
+File 473
+File name: LBG_OnFire.saf
+File size: 95124 bytes
+File 474
+File name: LBG_Plague.saf
+File size: 81696 bytes
+File 475
+File name: LBG_Scream1.saf
+File size: 88176 bytes
+File 476
+File name: LBG_Scream2.saf
+File size: 83064 bytes
+File 477
+File name: LBG_Scream3.saf
+File size: 105816 bytes
+File 478
+File name: LBG_StealWeapon1.saf
+File size: 27624 bytes
+File 479
+File name: LBG_StealWeapon2.saf
+File size: 50088 bytes
+File 480
+File name: LBG_StealWeapon3.saf
+File size: 30144 bytes
+File 481
+File name: LBG_Win1.saf
+File size: 49080 bytes
+File 482
+File name: LBG_Win2.saf
+File size: 71580 bytes
+File 483
+File name: LBG_Win3.saf
+File size: 69708 bytes
+File 484
+File name: LBG_Win4.saf
+File size: 44508 bytes
+File 485
+File name: LBG_Win5.saf
+File size: 141204 bytes
+File 486
+File name: LBG_Win6.saf
+File size: 72552 bytes
+File 487
+File name: LBG_Win7.saf
+File size: 103224 bytes
+File 488
+File name: LevelIntroFanfareST.saf
+File size: 260040 bytes
+File 489
+File name: LoseGame.saf
+File size: 376752 bytes
+File 490
+File name: LoungeMusic.saf
+File size: 152652 bytes
+File 491
+File name: MariachiLoop.saf
+File size: 170112 bytes
+File 492
+File name: Minefield.saf
+File size: 288696 bytes
+File 493
+File name: MIN_Death1.saf
+File size: 107832 bytes
+File 494
+File name: MIN_Death2.saf
+File size: 83244 bytes
+File 495
+File name: MIN_Death3.saf
+File size: 58404 bytes
+File 496
+File name: MIN_Drainee.saf
+File size: 81696 bytes
+File 497
+File name: MIN_Drainer.saf
+File size: 73884 bytes
+File 498
+File name: MIN_Frozen.saf
+File size: 210972 bytes
+File 499
+File name: MIN_GetPowerup1.saf
+File size: 27048 bytes
+File 500
+File name: MIN_GetWeapon1.saf
+File size: 20100 bytes
+File 501
+File name: MIN_GetWeapon2.saf
+File size: 20064 bytes
+File 502
+File name: MIN_Killer1.saf
+File size: 22116 bytes
+File 503
+File name: MIN_Killer2.saf
+File size: 31188 bytes
+File 504
+File name: MIN_Laugh.saf
+File size: 22116 bytes
+File 505
+File name: MIN_OnFire.saf
+File size: 95124 bytes
+File 506
+File name: MIN_Plague.saf
+File size: 163344 bytes
+File 507
+File name: MIN_Scream1.saf
+File size: 125040 bytes
+File 508
+File name: MIN_Scream2.saf
+File size: 143472 bytes
+File 509
+File name: MIN_StealWeapon.saf
+File size: 26832 bytes
+File 510
+File name: MissileFestLoop.saf
+File size: 152688 bytes
+File 511
+File name: MissileFire.wav
+File size: 48432 bytes
+File 512
+File name: MissileImpact.wav
+File size: 45444 bytes
+File 513
+File name: MissileWizz.wav
+File size: 14160 bytes
+File 514
+File name: PlagueLoop.saf
+File size: 148872 bytes
+File 515
+File name: PopcornPop.wav
+File size: 5016 bytes
+File 516
+File name: PPL_Death1.saf
+File size: 47352 bytes
+File 517
+File name: PPL_Death2.saf
+File size: 30900 bytes
+File 518
+File name: PPL_Death3.saf
+File size: 19596 bytes
+File 519
+File name: PPL_Death4.saf
+File size: 51888 bytes
+File 520
+File name: PPL_Death5.saf
+File size: 44040 bytes
+File 521
+File name: PPL_Death6.saf
+File size: 32484 bytes
+File 522
+File name: PPL_Death7.saf
+File size: 35040 bytes
+File 523
+File name: PPL_Death8.saf
+File size: 45804 bytes
+File 524
+File name: PPL_Death9.saf
+File size: 33348 bytes
+File 525
+File name: PPL_Frozen.saf
+File size: 169680 bytes
+File 526
+File name: PPL_GetPowerup1.saf
+File size: 39576 bytes
+File 527
+File name: PPL_GetPowerup2.saf
+File size: 17004 bytes
+File 528
+File name: PPL_GetPowerup3.saf
+File size: 35904 bytes
+File 529
+File name: PPL_GetWeapon1.saf
+File size: 37596 bytes
+File 530
+File name: PPL_GetWeapon10.saf
+File size: 24600 bytes
+File 531
+File name: PPL_GetWeapon11.saf
+File size: 30540 bytes
+File 532
+File name: PPL_GetWeapon2.saf
+File size: 33168 bytes
+File 533
+File name: PPL_GetWeapon3.saf
+File size: 31476 bytes
+File 534
+File name: PPL_GetWeapon4.saf
+File size: 53040 bytes
+File 535
+File name: PPL_GetWeapon5.saf
+File size: 31044 bytes
+File 536
+File name: PPL_GetWeapon6.saf
+File size: 20172 bytes
+File 537
+File name: PPL_GetWeapon7.saf
+File size: 37092 bytes
+File 538
+File name: PPL_GetWeapon8.saf
+File size: 23124 bytes
+File 539
+File name: PPL_GetWeapon9.saf
+File size: 35256 bytes
+File 540
+File name: PPL_Lose1.saf
+File size: 58260 bytes
+File 541
+File name: PPL_Lose2.saf
+File size: 88464 bytes
+File 542
+File name: PPL_Lose3.saf
+File size: 56820 bytes
+File 543
+File name: PPL_Lose4.saf
+File size: 66180 bytes
+File 544
+File name: PPL_Lose5.saf
+File size: 56964 bytes
+File 545
+File name: PPL_OnFire.saf
+File size: 95124 bytes
+File 546
+File name: PPL_Plague.saf
+File size: 81696 bytes
+File 547
+File name: PPL_Scream1.saf
+File size: 126840 bytes
+File 548
+File name: PPL_Scream2.saf
+File size: 121944 bytes
+File 549
+File name: PPL_Scream3.saf
+File size: 146892 bytes
+File 550
+File name: PPL_StealWeapon1.saf
+File size: 25788 bytes
+File 551
+File name: PPL_StealWeapon2.saf
+File size: 31548 bytes
+File 552
+File name: PPL_StealWeapon3.saf
+File size: 17400 bytes
+File 553
+File name: PPL_Win1.saf
+File size: 129684 bytes
+File 554
+File name: PPL_Win2.saf
+File size: 53040 bytes
+File 555
+File name: PPL_Win3.saf
+File size: 88356 bytes
+File 556
+File name: PPL_Win4.saf
+File size: 53832 bytes
+File 557
+File name: PPL_Win5.saf
+File size: 61032 bytes
+File 558
+File name: PPL_Win6.saf
+File size: 75216 bytes
+File 559
+File name: SBC_Death1.saf
+File size: 41952 bytes
+File 560
+File name: SBC_Death2.saf
+File size: 54048 bytes
+File 561
+File name: SBC_Death3.saf
+File size: 42132 bytes
+File 562
+File name: SBC_Death4.saf
+File size: 24420 bytes
+File 563
+File name: SBC_Death5.saf
+File size: 39108 bytes
+File 564
+File name: SBC_Death6.saf
+File size: 47064 bytes
+File 565
+File name: SBC_Death7.saf
+File size: 46488 bytes
+File 566
+File name: SBC_Death8.saf
+File size: 45300 bytes
+File 567
+File name: SBC_Death9.saf
+File size: 50376 bytes
+File 568
+File name: SBC_Frozen.saf
+File size: 106176 bytes
+File 569
+File name: SBC_GetPowerup1.saf
+File size: 49188 bytes
+File 570
+File name: SBC_GetPowerup2.saf
+File size: 23628 bytes
+File 571
+File name: SBC_GetPowerup3.saf
+File size: 36408 bytes
+File 572
+File name: SBC_GetWeapon1.saf
+File size: 45156 bytes
+File 573
+File name: SBC_GetWeapon10.saf
+File size: 24348 bytes
+File 574
+File name: SBC_GetWeapon2.saf
+File size: 41772 bytes
+File 575
+File name: SBC_GetWeapon3.saf
+File size: 34716 bytes
+File 576
+File name: SBC_GetWeapon4.saf
+File size: 29532 bytes
+File 577
+File name: SBC_GetWeapon5.saf
+File size: 39648 bytes
+File 578
+File name: SBC_GetWeapon6.saf
+File size: 57252 bytes
+File 579
+File name: SBC_GetWeapon7.saf
+File size: 39072 bytes
+File 580
+File name: SBC_GetWeapon8.saf
+File size: 19812 bytes
+File 581
+File name: SBC_GetWeapon9.saf
+File size: 15636 bytes
+File 582
+File name: SBC_Lose1.saf
+File size: 42132 bytes
+File 583
+File name: SBC_Lose2.saf
+File size: 86736 bytes
+File 584
+File name: SBC_Lose3.saf
+File size: 94008 bytes
+File 585
+File name: SBC_Lose4.saf
+File size: 76224 bytes
+File 586
+File name: SBC_Lose5.saf
+File size: 73668 bytes
+File 587
+File name: SBC_Lose6.saf
+File size: 85872 bytes
+File 588
+File name: SBC_OnFire.saf
+File size: 169788 bytes
+File 589
+File name: SBC_Scream1.saf
+File size: 128820 bytes
+File 590
+File name: SBC_Scream2.saf
+File size: 139980 bytes
+File 591
+File name: SBC_Scream3.saf
+File size: 107256 bytes
+File 592
+File name: SBC_StealWeapon1.saf
+File size: 46956 bytes
+File 593
+File name: SBC_StealWeapon2.saf
+File size: 33312 bytes
+File 594
+File name: SBC_Win1.saf
+File size: 47712 bytes
+File 595
+File name: SBC_Win2.saf
+File size: 137856 bytes
+File 596
+File name: SBC_Win3.saf
+File size: 99948 bytes
+File 597
+File name: SBC_Win4.saf
+File size: 44724 bytes
+File 598
+File name: SBC_Win5.saf
+File size: 49152 bytes
+File 599
+File name: Scene01_02VO.saf
+File size: 246036 bytes
+File 600
+File name: Scene03_Charity_Pick.WAV
+File size: 71652 bytes
+File 601
+File name: Scene03_Charity_Talk.WAV
+File size: 51096 bytes
+File 602
+File name: Scene03_Eugene_Pick.WAV
+File size: 215472 bytes
+File 603
+File name: Scene03_Lance_Pick.WAV
+File size: 69096 bytes
+File 604
+File name: Scene03_Lance_Talk.WAV
+File size: 88752 bytes
+File 605
+File name: Scene03_Lucky_Pick.WAV
+File size: 38424 bytes
+File 606
+File name: Scene03_Lucy_Pick.WAV
+File size: 154272 bytes
+File 607
+File name: Scene03_Lucy_Talk.WAV
+File size: 193944 bytes
+File 608
+File name: Scene03_Otto_Pick.WAV
+File size: 207120 bytes
+File 609
+File name: Scene03_Otto_Talk.WAV
+File size: 195600 bytes
+File 610
+File name: Scene03_Toof_Pick.WAV
+File size: 152652 bytes
+File 611
+File name: SnubLoop.saf
+File size: 345144 bytes
+File 612
+File name: SubThump.wav
+File size: 3252 bytes
+File 613
+File name: SwapLoop.saf
+File size: 164136 bytes
+File 614
+File name: SwarmLaunch.wav
+File size: 22620 bytes
+File 615
+File name: TagBell.saf
+File size: 41376 bytes
+File 616
+File name: TagLoop.saf
+File size: 113376 bytes
+File 617
+File name: UnlockFanfare.saf
+File size: 371208 bytes
+File 618
+File name: UpsideDownLoop.saf
+File size: 330744 bytes
+File 619
+File name: WeaponPop.wav
+File size: 13908 bytes
+File 620
+File name: WinGame.saf
+File size: 573384 bytes
+File 621
+File name: ZombieSong.saf
+File size: 238188 bytes
