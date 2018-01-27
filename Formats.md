@@ -34,6 +34,19 @@ Bink image format.
 Sprint Audio File. WAVE files.
 
 ## SCB
+Credit: [JuanJP600](https://github.com/juanjp600/)
+
 Sprint Colour Bitmap.
 
+* Magic Number - 4 bytes. " SCB"
+* Unknown - 4 bytes.
+* Image Width - 4 bytes.
+* Image Height - 4 bytes.
+* Unknown - 4 bytes.
+* Block Count - 4 bytes.
+* Unknown 4 bytes.
+* Image blocks.
 
+Image block format:
+* Block Size - 4 bytes
+* Block Data
