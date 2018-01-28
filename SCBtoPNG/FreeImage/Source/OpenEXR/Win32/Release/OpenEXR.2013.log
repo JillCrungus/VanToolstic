@@ -1,0 +1,281 @@
+﻿  IexMathFpu.cpp
+  b44ExpLogTable.cpp
+  ImfAcesFile.cpp
+IlmImf\ImfAcesFile.cpp(59): warning C4305: 'argument': truncation from 'double' to 'float'
+IlmImf\ImfAcesFile.cpp(426): warning C4305: 'argument': truncation from 'double' to 'float'
+IlmImf\ImfAcesFile.cpp(432): warning C4305: 'argument': truncation from 'double' to 'float'
+  ImfAttribute.cpp
+  ImfB44Compressor.cpp
+  ImfBoxAttribute.cpp
+  ImfChannelList.cpp
+  ImfChannelListAttribute.cpp
+  ImfChromaticities.cpp
+  ImfChromaticitiesAttribute.cpp
+  ImfCompositeDeepScanLine.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfCompressionAttribute.cpp
+  ImfCompressor.cpp
+  ImfConvert.cpp
+  ImfCRgbaFile.cpp
+  ImfDeepCompositing.cpp
+IlmImf\ImfDeepCompositing.cpp(84): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  ImfDeepFrameBuffer.cpp
+  ImfDeepImageStateAttribute.cpp
+  ImfDeepScanLineInputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+IlmImf\ImfDeepScanLineInputFile.cpp(343): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(504): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(511): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(517): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned int', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(518): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(627): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(636): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(1471): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(1512): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(1516): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(1717): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(1722): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(1833): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineInputFile.cpp(1851): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+  ImfDeepScanLineInputPart.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+  Compiling...
+  ImfDeepScanLineOutputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+IlmImf\ImfDeepScanLineOutputFile.cpp(378): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineOutputFile.cpp(384): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineOutputFile.cpp(696): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'long', possible loss of data
+IlmImf\ImfDeepScanLineOutputFile.cpp(736): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineOutputFile.cpp(759): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepScanLineOutputFile.cpp(769): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineOutputFile.cpp(786): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepScanLineOutputFile.cpp(974): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'long', possible loss of data
+IlmImf\ImfDeepScanLineOutputFile.cpp(979): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepScanLineOutputFile.cpp(1479): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'unsigned int', possible loss of data
+  ImfDeepScanLineOutputPart.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfDeepTiledInputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+IlmImf\ImfDeepTiledInputFile.cpp(418): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledInputFile.cpp(438): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledInputFile.cpp(444): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned int', possible loss of data
+IlmImf\ImfDeepTiledInputFile.cpp(445): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledInputFile.cpp(493): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledInputFile.cpp(499): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledInputFile.cpp(632): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledInputFile.cpp(1021): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'long', possible loss of data
+IlmImf\ImfDeepTiledInputFile.cpp(1025): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepTiledInputFile.cpp(1495): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledInputFile.cpp(1844): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledInputFile.cpp(1857): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+  ImfDeepTiledInputPart.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfDeepTiledOutputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+IlmImf\ImfDeepTiledOutputFile.cpp(194): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned int', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(195): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(554): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(560): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(690): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(743): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(874): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'long', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(910): warning C4244: 'argument': conversion from 'unsigned __int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(972): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(1002): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(1011): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(1243): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'long', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(1246): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(1251): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'std::size_t', possible loss of data
+IlmImf\ImfDeepTiledOutputFile.cpp(1749): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'unsigned int', possible loss of data
+  ImfDeepTiledOutputPart.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfDoubleAttribute.cpp
+  ImfDwaCompressor.cpp
+IlmImf\ImfDwaCompressor.cpp(274): warning C4018: '<': signed/unsigned mismatch
+IlmImf\ImfDwaCompressor.cpp(756): warning C4018: '<': signed/unsigned mismatch
+IlmImf\ImfDwaCompressor.cpp(785): warning C4018: '<': signed/unsigned mismatch
+IlmImf\ImfDwaCompressor.cpp(941): warning C4018: '<': signed/unsigned mismatch
+IlmImf\ImfDwaCompressor.cpp(1139): warning C4018: '<': signed/unsigned mismatch
+IlmImf\ImfDwaCompressor.cpp(1914): warning C4267: '+=': conversion from 'size_t' to 'unsigned short', possible loss of data
+IlmImf\ImfDwaCompressor.cpp(2423): warning C4267: '-=': conversion from 'size_t' to 'unsigned short', possible loss of data
+IlmImf\ImfDwaCompressor.cpp(2435): warning C4018: '>': signed/unsigned mismatch
+IlmImf\ImfDwaCompressor.cpp(2986): warning C4018: '<': signed/unsigned mismatch
+IlmImf\ImfDwaCompressor.cpp(3023): warning C4018: '>': signed/unsigned mismatch
+IlmImf\ImfDwaCompressor.cpp(3035): warning C4018: '>': signed/unsigned mismatch
+IlmImf\ImfDwaCompressor.cpp(3043): warning C4018: '>': signed/unsigned mismatch
+IlmImf\ImfDwaCompressor.cpp(3104): warning C4018: '>': signed/unsigned mismatch
+  ImfEnvmap.cpp
+  ImfEnvmapAttribute.cpp
+  ImfFastHuf.cpp
+IlmImf\ImfFastHuf.cpp(154): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfFastHuf.cpp(167): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfFastHuf.cpp(183): warning C4244: '=': conversion from 'Imath_2_2::Int64' to 'unsigned char', possible loss of data
+IlmImf\ImfFastHuf.cpp(186): warning C4244: '=': conversion from 'Imath_2_2::Int64' to 'unsigned char', possible loss of data
+IlmImf\ImfFastHuf.cpp(256): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+  ImfFloatAttribute.cpp
+  ImfFloatVectorAttribute.cpp
+  ImfFrameBuffer.cpp
+  ImfFramesPerSecond.cpp
+  ImfGenericInputFile.cpp
+./IlmImf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+./IlmImf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfGenericOutputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfHeader.cpp
+./IlmImf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+./IlmImf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfHuf.cpp
+IlmImf\ImfHuf.cpp(171): warning C4244: '=': conversion from 'Imath_2_2::Int64' to 'char', possible loss of data
+IlmImf\ImfHuf.cpp(250): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfHuf.cpp(481): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfHuf.cpp(550): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfHuf.cpp(562): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfHuf.cpp(621): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfHuf.cpp(679): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+IlmImf\ImfHuf.cpp(724): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfHuf.cpp(898): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned char', possible loss of data
+IlmImf\ImfHuf.cpp(913): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+IlmImf\ImfHuf.cpp(928): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned char', possible loss of data
+IlmImf\ImfHuf.cpp(955): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned char', possible loss of data
+  ImfInputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+  Compiling...
+  ImfInputPart.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfInputPartData.cpp
+  ImfIntAttribute.cpp
+  ImfIO.cpp
+  ImfKeyCode.cpp
+  ImfKeyCodeAttribute.cpp
+  ImfLineOrderAttribute.cpp
+  ImfLut.cpp
+IlmImf\ImfLut.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+IlmImf\ImfLut.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+IlmImf\ImfLut.cpp(174): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ImfMatrixAttribute.cpp
+  ImfMisc.cpp
+IlmImf\ImfMisc.cpp(313): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+IlmImf\ImfMisc.cpp(708): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ImfMultiPartInputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfMultiPartOutputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfMultiView.cpp
+  ImfOpaqueAttribute.cpp
+  ImfOutputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfOutputPart.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfOutputPartData.cpp
+  ImfPartType.cpp
+  ImfPizCompressor.cpp
+  ImfPreviewImage.cpp
+  Generating Code...
+  Compiling...
+  ImfPreviewImageAttribute.cpp
+  ImfPxr24Compressor.cpp
+  ImfRational.cpp
+  ImfRationalAttribute.cpp
+  ImfRgbaFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfRgbaYca.cpp
+  ImfRle.cpp
+  ImfRleCompressor.cpp
+  ImfScanLineInputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+IlmImf\ImfScanLineInputFile.cpp(1467): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  ImfStandardAttributes.cpp
+  ImfStdIO.cpp
+  ImfStringAttribute.cpp
+  ImfStringVectorAttribute.cpp
+  ImfSystemSpecific.cpp
+IlmImf\ImfSystemSpecific.cpp(104): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+IlmImf\ImfSystemSpecific.cpp(106): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+IlmImf\ImfSystemSpecific.cpp(107): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+IlmImf\ImfSystemSpecific.cpp(108): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+IlmImf\ImfSystemSpecific.cpp(109): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+IlmImf\ImfSystemSpecific.cpp(110): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+IlmImf\ImfSystemSpecific.cpp(111): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfTestFile.cpp
+./IlmImf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+./IlmImf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfThreading.cpp
+  ImfTileDescriptionAttribute.cpp
+  ImfTiledInputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfTiledInputPart.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfTiledMisc.cpp
+  Generating Code...
+  Compiling...
+  ImfTiledOutputFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfTiledOutputPart.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfTiledRgbaFile.cpp
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmimf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfTileOffsets.cpp
+IlmImf\ImfTileOffsets.cpp(154): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+  ImfTimeCode.cpp
+  ImfTimeCodeAttribute.cpp
+  ImfVecAttribute.cpp
+  ImfVersion.cpp
+./IlmImf\ImfVersion.h(112): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+./IlmImf\ImfVersion.h(113): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ImfWav.cpp
+  ImfZip.cpp
+  ImfZipCompressor.cpp
+  ImathBox.cpp
+  ImathColorAlgo.cpp
+  ImathFun.cpp
+  ImathMatrixAlgo.cpp
+Imath\ImathMatrixAlgo.cpp(118): warning C4018: '<': signed/unsigned mismatch
+  Imath\ImathMatrixAlgo.cpp(254): note: see reference to function template instantiation 'Imath_2_2::M44d Imath_2_2::procrustesRotationAndTranslation<double>(const Imath_2_2::V3d *,const Imath_2_2::V3d *,const double *,const std::size_t,const bool)' being compiled
+Imath\ImathMatrixAlgo.cpp(127): warning C4018: '<': signed/unsigned mismatch
+Imath\ImathMatrixAlgo.cpp(155): warning C4018: '<': signed/unsigned mismatch
+Imath\ImathMatrixAlgo.cpp(160): warning C4018: '<': signed/unsigned mismatch
+Imath\ImathMatrixAlgo.cpp(200): warning C4018: '<': signed/unsigned mismatch
+Imath\ImathMatrixAlgo.cpp(205): warning C4018: '<': signed/unsigned mismatch
+  ImathRandom.cpp
+  ImathShear.cpp
+  ImathVec.cpp
+  IexBaseExc.cpp
+  IexThrowErrnoExc.cpp
+  Generating Code...
+  Compiling...
+  half.cpp
+  IlmThread.cpp
+IlmThread\IlmThread.cpp(67): warning C4297: 'IlmThread_2_2::Thread::~Thread': function assumed not to throw an exception but does
+  IlmThread\IlmThread.cpp(67): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  IlmThreadMutex.cpp
+  IlmThreadPool.cpp
+  IlmThreadSemaphore.cpp
+  IexMathFloatExc.cpp
+  Generating Code...
+c:\users\admin\desktop\repos\pulsegun\src\libraries\freeimage\source\openexr\ilmthread\ilmthread.cpp(68): warning C4722: 'IlmThread_2_2::Thread::~Thread': destructor never returns, potential memory leak
+  OpenEXR.2013.vcxproj -> C:\Users\Admin\Desktop\Repos\pulsegun\Src\Libraries\FreeImage\Source\OpenEXR\.\Win32\Release\OpenEXR.lib

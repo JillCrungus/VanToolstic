@@ -1,1 +1,3 @@
-*.pyc 
+*.pyc
+/SCBtoPNG/CodeBlocks_Linux/SCBtoPNG.depend
+/SCBtoPNG/CodeBlocks_Linux/SCBtoPNG.layout

@@ -1,0 +1,121 @@
+﻿  BitmapAccess.cpp
+  ColorLookup.cpp
+  ConversionRGBA16.cpp
+  ConversionRGBAF.cpp
+  FreeImage.cpp
+  FreeImageIO.cpp
+  GetType.cpp
+  LFPQuantizer.cpp
+  MemoryIO.cpp
+  PixelAccess.cpp
+  J2KHelper.cpp
+  MNGHelper.cpp
+  Plugin.cpp
+  PluginBMP.cpp
+  PluginCUT.cpp
+  PluginDDS.cpp
+  PluginEXR.cpp
+  PluginG3.cpp
+  PluginGIF.cpp
+  PluginHDR.cpp
+  Compiling...
+  PluginICO.cpp
+  PluginIFF.cpp
+  PluginJ2K.cpp
+  PluginJNG.cpp
+  PluginJP2.cpp
+  PluginJPEG.cpp
+  PluginJXR.cpp
+  PluginKOALA.cpp
+  PluginMNG.cpp
+  PluginPCD.cpp
+  PluginPCX.cpp
+  PluginPFM.cpp
+  PluginPICT.cpp
+  PluginPNG.cpp
+  PluginPNM.cpp
+  PluginPSD.cpp
+  PluginRAS.cpp
+  PluginRAW.cpp
+  PluginSGI.cpp
+  PluginTARGA.cpp
+  Compiling...
+  PluginTIFF.cpp
+  PluginWBMP.cpp
+  PluginXBM.cpp
+  PluginXPM.cpp
+  PSDParser.cpp
+  TIFFLogLuv.cpp
+  Conversion.cpp
+  Conversion16_555.cpp
+  Conversion16_565.cpp
+  Conversion24.cpp
+  Conversion32.cpp
+  Conversion4.cpp
+  Conversion8.cpp
+  ConversionFloat.cpp
+  ConversionRGB16.cpp
+  ConversionRGBF.cpp
+  ConversionType.cpp
+  ConversionUINT16.cpp
+  Halftoning.cpp
+  tmoColorConvert.cpp
+  Compiling...
+  tmoDrago03.cpp
+  tmoFattal02.cpp
+  tmoReinhard05.cpp
+  ToneMapping.cpp
+  NNQuantizer.cpp
+  WuQuantizer.cpp
+  Deprecated.cpp
+  DeprecationMgr.cpp
+  CacheFile.cpp
+  MultiPage.cpp
+  ZLibInterface.cpp
+  Exif.cpp
+  FIRational.cpp
+  FreeImageTag.cpp
+  IPTC.cpp
+  TagConversion.cpp
+Source\Metadata\TagConversion.cpp(202): warning C4477: 'sprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'UINT64'
+  Source\Metadata\TagConversion.cpp(202): note: consider using '%lld' in the format string
+  Source\Metadata\TagConversion.cpp(202): note: consider using '%I64d' in the format string
+Source\Metadata\TagConversion.cpp(205): warning C4477: 'sprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'UINT64'
+  Source\Metadata\TagConversion.cpp(205): note: consider using '%lld' in the format string
+  Source\Metadata\TagConversion.cpp(205): note: consider using '%I64d' in the format string
+Source\Metadata\TagConversion.cpp(215): warning C4477: 'sprintf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'UINT64'
+  Source\Metadata\TagConversion.cpp(215): note: consider using '%llX' in the format string
+  Source\Metadata\TagConversion.cpp(215): note: consider using '%I64X' in the format string
+Source\Metadata\TagConversion.cpp(218): warning C4477: 'sprintf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'UINT64'
+  Source\Metadata\TagConversion.cpp(218): note: consider using '%llX' in the format string
+  Source\Metadata\TagConversion.cpp(218): note: consider using '%I64X' in the format string
+Source\Metadata\TagConversion.cpp(228): warning C4477: 'sprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'INT64'
+  Source\Metadata\TagConversion.cpp(228): note: consider using '%lld' in the format string
+  Source\Metadata\TagConversion.cpp(228): note: consider using '%I64d' in the format string
+Source\Metadata\TagConversion.cpp(231): warning C4477: 'sprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'INT64'
+  Source\Metadata\TagConversion.cpp(231): note: consider using '%lld' in the format string
+  Source\Metadata\TagConversion.cpp(231): note: consider using '%I64d' in the format string
+  TagLib.cpp
+  XTIFF.cpp
+  Background.cpp
+  BSplineRotate.cpp
+  Compiling...
+  Channels.cpp
+  ClassicRotate.cpp
+  Colors.cpp
+  CopyPaste.cpp
+  Display.cpp
+  Flip.cpp
+  JPEGTransform.cpp
+  MultigridPoissonSolver.cpp
+  Rescale.cpp
+  Resize.cpp
+  FreeImageC.c
+     Creating library .\Win32\Release\FreeImage.lib and object .\Win32\Release\FreeImage.exp
+  Generating code
+  Finished generating code
+  FreeImage.2013.vcxproj -> C:\Users\Admin\Desktop\Repos\pulsegun\Src\Libraries\FreeImage\.\Win32\Release\FreeImage.dll
+  A subdirectory or file Dist\x32 already exists.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.

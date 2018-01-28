@@ -1,0 +1,221 @@
+﻿  IexMathFpu.cpp
+  b44ExpLogTable.cpp
+  ImfAcesFile.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfacesfile.cpp(59): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfacesfile.cpp(426): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfacesfile.cpp(432): warning C4305: 'argument': truncation from 'double' to 'float'
+  ImfAttribute.cpp
+  ImfB44Compressor.cpp
+  ImfBoxAttribute.cpp
+  ImfChannelList.cpp
+  ImfChannelListAttribute.cpp
+  ImfChromaticities.cpp
+  ImfChromaticitiesAttribute.cpp
+  ImfCompositeDeepScanLine.cpp
+  ImfCompressionAttribute.cpp
+  ImfCompressor.cpp
+  ImfConvert.cpp
+  ImfCRgbaFile.cpp
+  ImfDeepCompositing.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepcompositing.cpp(84): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  ImfDeepFrameBuffer.cpp
+  ImfDeepImageStateAttribute.cpp
+  ImfDeepScanLineInputFile.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(343): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(504): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(511): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(517): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(518): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(627): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(636): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1471): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1512): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1516): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1717): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1722): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1833): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1851): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+  ImfDeepScanLineInputPart.cpp
+  Generating Code...
+  Compiling...
+  ImfDeepScanLineOutputFile.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(378): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(384): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(696): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'long', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(736): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(759): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(769): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(786): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(974): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'long', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(979): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(1479): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'const unsigned int', possible loss of data
+  ImfDeepScanLineOutputPart.cpp
+  ImfDeepTiledInputFile.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(418): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(438): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(444): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(445): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(493): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(499): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(632): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1021): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'long', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1025): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1495): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1844): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1857): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+  ImfDeepTiledInputPart.cpp
+  ImfDeepTiledOutputFile.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(194): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(195): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(554): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(560): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(690): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(743): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(874): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'long', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(910): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(972): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1002): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1011): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1243): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'long', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1246): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1251): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to '::size_t', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1749): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'const unsigned int', possible loss of data
+  ImfDeepTiledOutputPart.cpp
+  ImfDoubleAttribute.cpp
+  ImfDwaCompressor.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(274): warning C4018: '<': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(756): warning C4018: '<': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(785): warning C4018: '<': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(941): warning C4018: '<': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(1139): warning C4018: '<': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(1914): warning C4267: '+=': conversion from 'size_t' to 'unsigned short', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(2423): warning C4267: '-=': conversion from 'size_t' to 'unsigned short', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(2435): warning C4018: '>': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(2986): warning C4018: '<': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3023): warning C4018: '>': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3035): warning C4018: '>': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3043): warning C4018: '>': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3104): warning C4018: '>': signed/unsigned mismatch
+  ImfEnvmap.cpp
+  ImfEnvmapAttribute.cpp
+  ImfFastHuf.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imffasthuf.cpp(154): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imffasthuf.cpp(167): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imffasthuf.cpp(183): warning C4244: '=': conversion from 'Imath_2_2::Int64' to 'unsigned char', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imffasthuf.cpp(186): warning C4244: '=': conversion from 'Imath_2_2::Int64' to 'unsigned char', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imffasthuf.cpp(256): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+  ImfFloatAttribute.cpp
+  ImfFloatVectorAttribute.cpp
+  ImfFrameBuffer.cpp
+  ImfFramesPerSecond.cpp
+  ImfGenericInputFile.cpp
+  ImfGenericOutputFile.cpp
+  ImfHeader.cpp
+  ImfHuf.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(171): warning C4244: '=': conversion from 'Imath_2_2::Int64' to 'char', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(250): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(481): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(550): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(562): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(621): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(679): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(724): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(898): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned char', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(913): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(928): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned char', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfhuf.cpp(955): warning C4244: 'initializing': conversion from 'Imath_2_2::Int64' to 'unsigned char', possible loss of data
+  ImfInputFile.cpp
+  Generating Code...
+  Compiling...
+  ImfInputPart.cpp
+  ImfInputPartData.cpp
+  ImfIntAttribute.cpp
+  ImfIO.cpp
+  ImfKeyCode.cpp
+  ImfKeyCodeAttribute.cpp
+  ImfLineOrderAttribute.cpp
+  ImfLut.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imflut.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imflut.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imflut.cpp(174): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ImfMatrixAttribute.cpp
+  ImfMisc.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfmisc.cpp(313): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfmisc.cpp(708): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ImfMultiPartInputFile.cpp
+  ImfMultiPartOutputFile.cpp
+  ImfMultiView.cpp
+  ImfOpaqueAttribute.cpp
+  ImfOutputFile.cpp
+  ImfOutputPart.cpp
+  ImfOutputPartData.cpp
+  ImfPartType.cpp
+  ImfPizCompressor.cpp
+  ImfPreviewImage.cpp
+  Generating Code...
+  Compiling...
+  ImfPreviewImageAttribute.cpp
+  ImfPxr24Compressor.cpp
+  ImfRational.cpp
+  ImfRationalAttribute.cpp
+  ImfRgbaFile.cpp
+  ImfRgbaYca.cpp
+  ImfRle.cpp
+  ImfRleCompressor.cpp
+  ImfScanLineInputFile.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imfscanlineinputfile.cpp(1467): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  ImfStandardAttributes.cpp
+  ImfStdIO.cpp
+  ImfStringAttribute.cpp
+  ImfStringVectorAttribute.cpp
+  ImfSystemSpecific.cpp
+  ImfTestFile.cpp
+  ImfThreading.cpp
+  ImfTileDescriptionAttribute.cpp
+  ImfTiledInputFile.cpp
+  ImfTiledInputPart.cpp
+  ImfTiledMisc.cpp
+  Generating Code...
+  Compiling...
+  ImfTiledOutputFile.cpp
+  ImfTiledOutputPart.cpp
+  ImfTiledRgbaFile.cpp
+  ImfTileOffsets.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmimf\imftileoffsets.cpp(154): warning C4244: 'argument': conversion from 'Imath_2_2::Int64' to 'int', possible loss of data
+  ImfTimeCode.cpp
+  ImfTimeCodeAttribute.cpp
+  ImfVecAttribute.cpp
+  ImfVersion.cpp
+  ImfWav.cpp
+  ImfZip.cpp
+  ImfZipCompressor.cpp
+  ImathBox.cpp
+  ImathColorAlgo.cpp
+  ImathFun.cpp
+  ImathMatrixAlgo.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\imath\imathmatrixalgo.cpp(118): warning C4018: '<': signed/unsigned mismatch
+  d:\repos\pulsegun\src\freeimage\source\openexr\imath\imathmatrixalgo.cpp(254): note: see reference to function template instantiation 'Imath_2_2::M44d Imath_2_2::procrustesRotationAndTranslation<double>(const Imath_2_2::V3d *,const Imath_2_2::V3d *,const double *,const ::size_t,const bool)' being compiled
+d:\repos\pulsegun\src\freeimage\source\openexr\imath\imathmatrixalgo.cpp(127): warning C4018: '<': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\imath\imathmatrixalgo.cpp(155): warning C4018: '<': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\imath\imathmatrixalgo.cpp(160): warning C4018: '<': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\imath\imathmatrixalgo.cpp(200): warning C4018: '<': signed/unsigned mismatch
+d:\repos\pulsegun\src\freeimage\source\openexr\imath\imathmatrixalgo.cpp(205): warning C4018: '<': signed/unsigned mismatch
+  ImathRandom.cpp
+  ImathShear.cpp
+  ImathVec.cpp
+  IexBaseExc.cpp
+  IexThrowErrnoExc.cpp
+  Generating Code...
+  Compiling...
+  half.cpp
+  IlmThread.cpp
+d:\repos\pulsegun\src\freeimage\source\openexr\ilmthread\ilmthread.cpp(67): warning C4297: 'IlmThread_2_2::Thread::~Thread': function assumed not to throw an exception but does
+  d:\repos\pulsegun\src\freeimage\source\openexr\ilmthread\ilmthread.cpp(67): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  IlmThreadMutex.cpp
+  IlmThreadPool.cpp
+  IlmThreadSemaphore.cpp
+  IexMathFloatExc.cpp
+  Generating Code...
+ImathShear.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+ImathBox.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  OpenEXR.2013.vcxproj -> D:\Repos\pulsegun\Src\FreeImage\Source\OpenEXR\.\Win32\Debug\OpenEXR.lib
