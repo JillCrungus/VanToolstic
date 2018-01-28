@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <fstream>
+#include <string>
 
 #include <FreeImage.h>
 
@@ -53,6 +54,7 @@ int main() {
 
     sourceFile.read(buf,28); //header (TODO: parse instead of skip)
     int blockCount = 0;
+
 
     sourceFile.read(buf,4); //block size
     while (!sourceFile.eof()) {
