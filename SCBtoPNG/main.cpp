@@ -5,6 +5,12 @@
 
 #include <FreeImage.h>
 
+struct DecompressedBlock {
+    unsigned char* rgbaData;
+    int x; int y;
+    int width; int height;
+};
+
 static int makeR5(int b1,int b2) {
     int r = b1>>3; r*=0xFF; r/=0x1F;
     return r;
@@ -77,7 +83,7 @@ static int interpolateAlpha3bit(int c1,int c2,int interp) {
 
 static int getDimFromSize(int c) {
     int bShift = 0;
-    while (1<<bShift < c) { bShift++; }
+    while (1<<bShift < c) { bShift+=2; }
     return 1<<(bShift/2);
 }
 
@@ -102,7 +108,7 @@ int main() {
         std::cout<<"Header magic number is not \".SCB\"";
         return -1;
     }
-    sourceFile.read(buf,4); //TODO: figure out what this part of the header means
+    sourceFile.read(buf,4); //possibly a version number?
     
     sourceFile.read(buf,4); int width = *((int*)((void*)buf));
     sourceFile.read(buf,4); int height = *((int*)((void*)buf));
@@ -132,9 +138,13 @@ int main() {
 
     sourceFile.read(buf,4); //TODO: figure out what this part of the header means
 
+    std::vector<DecompressedBlock> decompressedBlocks;
+
     std::vector<char> realBuf;
+    int blockX = 0; int blockY = 0;
     int blockNum = 0;
     sourceFile.read(buf,4); //block size
+
     while (!sourceFile.eof()) {
         int blockSize = *(int*)((void*)buf);
         tBuf.resize(blockSize);
@@ -154,27 +164,39 @@ int main() {
             0,7,1,2,3,4,5,6
         };
 
-        int blockDims;
+        int blockPixelCount;
         if (dxtVariant==1) {
-            blockDims = blockSize/8;
+            blockPixelCount = blockSize/8;
         } else if (dxtVariant==3 || dxtVariant==5) {
-            blockDims = blockSize/16;
+            blockPixelCount = blockSize/16;
         }
         
-        blockDims = getDimFromSize(blockDims);
-        std::cout<<"Dimensions of block "<<blockNum<<": "<<blockDims<<" x "<<blockDims<<"\n";
+        int blockWidth; int blockHeight;
+        blockWidth = getDimFromSize(blockPixelCount); blockHeight = blockWidth;
+        while (blockX+blockWidth/2>=width/4) {
+            if (blockWidth*blockHeight==blockPixelCount) {
+                blockHeight*=2;
+            }
+            blockWidth/=2;
+        }
+        while (blockY+blockHeight/2>=height/4) {
+            if (blockWidth*blockHeight==blockPixelCount) {
+                blockWidth*=2;
+            }
+            blockHeight/=2;
+        }
 
-        realBuf.resize(blockDims*4*blockDims*4*4);
+        realBuf.resize(blockWidth*4*blockHeight*4*4);
 
-        for (int i=0;i<blockDims*blockDims;i++) {
+        for (int i=0;i<blockWidth*blockHeight;i++) {
             int tInd;
             if (dxtVariant==1) {
                 tInd = i*8;
             } else if (dxtVariant==3 || dxtVariant==5) {
                 tInd = i*16+8;
             }
-            int rX = (i%blockDims)*4;
-            int rY = (i/blockDims)*4;
+            int rX = (i%blockWidth)*4;
+            int rY = (i/blockWidth)*4;
 
             //color data
             int b1a = ((unsigned char)tBuf[tInd+1]);
@@ -203,10 +225,10 @@ int main() {
                     int intBits = colorPaletteSw[getInterpolationFactor(int1,int2,int3,int4,x+(3-y)*4)];
 
                     //fill the final buffer with interpolated color data
-                    realBuf[rX*4+(rY*blockDims*4*4)+2+x*4+y*blockDims*4*4] = interpolate2bit(r1,r2,intBits); //r
-                    realBuf[rX*4+(rY*blockDims*4*4)+1+x*4+y*blockDims*4*4] = interpolate2bit(g1,g2,intBits); //g
-                    realBuf[rX*4+(rY*blockDims*4*4)+0+x*4+y*blockDims*4*4] = interpolate2bit(b1,b2,intBits); //b
-                    realBuf[rX*4+(rY*blockDims*4*4)+3+x*4+y*blockDims*4*4] = 255; //a
+                    realBuf[rX*4+(rY*blockWidth*4*4)+2+x*4+y*blockWidth*4*4] = interpolate2bit(r1,r2,intBits); //r
+                    realBuf[rX*4+(rY*blockWidth*4*4)+1+x*4+y*blockWidth*4*4] = interpolate2bit(g1,g2,intBits); //g
+                    realBuf[rX*4+(rY*blockWidth*4*4)+0+x*4+y*blockWidth*4*4] = interpolate2bit(b1,b2,intBits); //b
+                    realBuf[rX*4+(rY*blockWidth*4*4)+3+x*4+y*blockWidth*4*4] = 255; //a
                 }
             }
 
@@ -229,7 +251,7 @@ int main() {
                         } else {
                             a = alpha[(x/2)+y*2]&0xf;
                         }
-                        realBuf[rX*4+(rY*blockDims*4*4)+3+x*4+y*blockDims*4*4] = a<<4;
+                        realBuf[rX*4+(rY*blockWidth*4*4)+3+x*4+y*blockWidth*4*4] = a<<4;
                     }
                 }
             }
@@ -264,17 +286,63 @@ int main() {
             }*/
         }
 
-        FIBITMAP* fiBitmap = FreeImage_ConvertFromRawBits((unsigned char*)((void*)realBuf.data()),blockDims*4,blockDims*4,blockDims*4*4,32,0xFF0000,0x00FF00,0x0000FF,true);
-        std::string saveName = std::string("block")+std::to_string(blockNum)+".png";
-        FreeImage_Save(FIF_PNG,fiBitmap,saveName.c_str(),0);
-        FreeImage_Unload(fiBitmap);
+        DecompressedBlock newDecompressedBlock;
+        newDecompressedBlock.rgbaData = new unsigned char[realBuf.size()];
+        memcpy(newDecompressedBlock.rgbaData,realBuf.data(),realBuf.size()*sizeof(unsigned char));
+        newDecompressedBlock.x = blockX*4;
+        newDecompressedBlock.y = blockY*4;
+        newDecompressedBlock.width = blockWidth*4;
+        newDecompressedBlock.height = blockHeight*4;
+        decompressedBlocks.push_back(newDecompressedBlock);
 
-        std::cout<<"Wrote first block to block"<<blockNum<<".png\n";
+        std::cout<<"Successfully extracted block "<<blockNum<<"\n";
 
         blockNum++;
+        blockX += blockWidth;
+        if (blockX>=width/4) {
+            blockY+=blockHeight;
+            blockX = 0;
+        }
+
+        if (blockNum>=blockCount) {
+            break;
+        }
+
         sourceFile.read(buf,4); //block size
     }
     sourceFile.close(); delete[] buf;
     
+    std::vector<unsigned char> finalBuffer;
+    finalBuffer.resize(4*width*height);
+    for (int i=0;i<decompressedBlocks.size();i++) {
+        std::cout<<"COPYING BLOCK "<<i<<"\n";
+        int blockWidth = decompressedBlocks[i].width;
+        int blockHeight = decompressedBlocks[i].height;
+        for (int j=0;j<blockWidth*blockHeight;j++) {
+            int relativeX = j%(decompressedBlocks[i].width);
+            int relativeY = j/(decompressedBlocks[i].width);
+
+            int x = decompressedBlocks[i].x+relativeX;
+            int y = decompressedBlocks[i].y+relativeY;
+
+            if (x>=width || y>=height) { break; }
+
+            finalBuffer[(x+y*width)*4] = decompressedBlocks[i].rgbaData[(relativeX+relativeY*blockWidth)*4];
+            finalBuffer[(x+y*width)*4+1] = decompressedBlocks[i].rgbaData[(relativeX+relativeY*blockWidth)*4+1];
+            finalBuffer[(x+y*width)*4+2] = decompressedBlocks[i].rgbaData[(relativeX+relativeY*blockWidth)*4+2];
+            finalBuffer[(x+y*width)*4+3] = decompressedBlocks[i].rgbaData[(relativeX+relativeY*blockWidth)*4+3];
+        }
+
+        delete[] decompressedBlocks[i].rgbaData;
+
+        std::cout<<"DONE COPYING BLOCK "<<i<<"\n";
+    }
+    decompressedBlocks.clear();
+
+    FIBITMAP* fiBitmap = FreeImage_ConvertFromRawBits((unsigned char*)((void*)finalBuffer.data()),width,height,width*4,32,0xFF0000,0x00FF00,0x0000FF,true);
+    std::string saveName = filename+".png";
+    FreeImage_Save(FIF_PNG,fiBitmap,saveName.c_str(),0);
+    FreeImage_Unload(fiBitmap);
+
     return 0;
 }
