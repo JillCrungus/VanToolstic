@@ -136,7 +136,7 @@ int main() {
     sourceFile.read(buf,4); int blockCount = *((int*)((void*)buf));
     std::cout<<"Block count: "<<blockCount<<"\n";
 
-    sourceFile.read(buf,4); //TODO: figure out what this part of the header means
+    sourceFile.read(buf,4); //total size of the compressed image in bytes (i.e. sum of the sizes of each block)
 
     std::vector<DecompressedBlock> decompressedBlocks;
 

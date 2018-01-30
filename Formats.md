@@ -38,15 +38,15 @@ Credit: [JuanJP600](https://github.com/juanjp600/)
 
 Sprint Colour Bitmap.
 
-* Magic Number - 4 bytes. " SCB"
-* Unknown - 4 bytes.
-* Image Width - 4 bytes.
-* Image Height - 4 bytes.
-* Unknown - 4 bytes.
-* Block Count - 4 bytes.
-* Unknown 4 bytes.
-* Image blocks.
+Header:
+* Magic number - 4 bytes, should be the string ".SCB"
+* Version number - 4 bytes, little endian. Seems to always be 1.
+* Image width, in pixels - 4 bytes, little endian.
+* Image height - 4 bytes, little endian.
+* Compression method - 4 bytes, little endian. 0 indicates DXT1, 1 and 2 indicate DXT3.
+* Block count - 4 bytes, little endian.
+* Total image size, in bytes - 4 bytes, little endian.
 
 Image block format:
-* Block Size - 4 bytes
-* Block Data
+* Block size, in bytes - 4 bytes, little endian.
+* Block data - Data compressed by the method described in the header.
