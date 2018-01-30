@@ -178,12 +178,14 @@ int main() {
                 blockHeight*=2;
             }
             blockWidth/=2;
+            if (blockWidth==1) { break; }
         }
         while (blockY+blockHeight/2>=height/4) {
             if (blockWidth*blockHeight==blockPixelCount) {
                 blockWidth*=2;
             }
             blockHeight/=2;
+            if (blockHeight==1) { break; }
         }
 
         realBuf.resize(blockWidth*4*blockHeight*4*4);
@@ -325,7 +327,8 @@ int main() {
             int x = decompressedBlocks[i].x+relativeX;
             int y = decompressedBlocks[i].y+relativeY;
 
-            if (x>=width || y>=height) { break; }
+            if (x>=width) { j=(relativeY+1)*blockWidth-1; continue; }
+            if (y>=height) { break; }
 
             finalBuffer[(x+y*width)*4] = decompressedBlocks[i].rgbaData[(relativeX+relativeY*blockWidth)*4];
             finalBuffer[(x+y*width)*4+1] = decompressedBlocks[i].rgbaData[(relativeX+relativeY*blockWidth)*4+1];
