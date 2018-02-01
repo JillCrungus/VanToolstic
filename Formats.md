@@ -23,7 +23,7 @@ PAK is the first archive format used in the Sprint Engine. In Whacked! it contai
     
 ## STR
 
-An absolute mess. More research is needed.
+Stream file. A stream of bytes as the game would read them
 
 ## BIK
 
