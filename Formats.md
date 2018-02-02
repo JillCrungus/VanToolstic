@@ -1,11 +1,7 @@
 # Formats
 Sprint formats are Little-Endian
 
-# Sprint Formats
-
-Formats used in the Sprint Engine
-
-Common examples:
+Common formats:
 * STR
 * PAK
 * BIK
@@ -31,7 +27,7 @@ Bink image format.
 
 ## SAF
 
-Sprint Audio File. WAVE files.
+Sprint Audio File. WAVE files, IMA ADPCM encoding.
 
 ## SCB
 Credit: [JuanJP600](https://github.com/juanjp600/)
