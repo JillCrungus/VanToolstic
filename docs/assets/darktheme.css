@@ -1,7 +1,9 @@
 html, body {
 	background-color: #36393e;
-	color: white;
+	color: #DEDEE0;
 	font-weight: normal;
 	font-size: 24px;
+	font-family: 'open sans';
+    src: url('./assets/fnt/OpenSans-Bold.ttf');
 	text-align: center;
 }
