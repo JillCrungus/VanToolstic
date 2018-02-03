@@ -89,7 +89,7 @@ static int getDimFromSize(int c) {
 
 int main() {
     std::string filename;
-    std::cout<<"Enter the filename of the SCB file to extract a block from: ";
+    std::cout<<"Enter the filename of the SCB to convert: ";
     std::cin>>filename;
 
     std::vector<char> tBuf; //temporary buffer containing raw block data
