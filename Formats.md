@@ -19,7 +19,8 @@ PAK is the first archive format used in the Sprint Engine. In Whacked! it contai
     
 ## STR
 
-Stream file. A stream of bytes as the game would read them
+Stream file. A stream of bytes as the game would read them.
+"Our solution was what we called a stream file. A stream file was simply a stream of bytes as loaded by the engine. We knew that when you loaded one level in our engine that it would load the same data in the same order every time. If for some reason, it stopped reading from one file and started reading from another, it would do this every time at the same point as long as the data remained consistent between loads. So we created a piece of code in our file system that could be flipped on to dump every byte loaded back into a new stream file. On the next load, you could draw the data from the single stream file instead of the dozens or hundreds of original files needed to define the level. We could then do the same thing with our characters and global object data by creating separate stream files for each of them. Now when we go to load a level, we simply read a contiguous block of 30 MB of data as fast as the DVD can stream it. Wrap this code in a multi-threaded IO reader and this dropped our load times from 30 to 40 seconds down to 5 to 10 seconds, which in turn satisfied the Microsoft certification maximum load time." - https://www.gamasutra.com/view/feature/131337/postmortem_prestos_whacked.php?page=2
 
 ## BIK
 
